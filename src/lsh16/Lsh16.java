@@ -2,6 +2,14 @@ package lsh16;
 
 import java.util.Scanner;
 
+/*
+ * <오버로딩>
+ * 1. 같은 영역 내에 있어야 합니다.
+ * 2. 메서드명이 같아야 합니다.
+ * 3. 파라메터의 갯수가 달라야 합니다.
+ * 4. 파라메터의 갯수가 같더라도 데이터 타입이 달라야 합니다.
+ * 5. 파라메터의 갯수, 데이터타입이 같더라도 위치가 달라야 합니다.
+ */
 public class Lsh16 {
 	static String name;
 	static int num;
